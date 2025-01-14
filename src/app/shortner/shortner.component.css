@@ -1,0 +1,41 @@
+.card {
+    border-radius: 20px;
+    overflow: hidden;
+  }
+  
+  .card-header {
+    background: linear-gradient(45deg, #007bff, #0056b3);
+  }
+  
+  .card-header h2 {
+    font-weight: bold;
+    margin: 0;
+  }
+  
+  .card-body {
+    background-color: #f8f9fa;
+  }
+  
+  .input-group .form-control {
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+  }
+  
+  .input-group .btn {
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+  }
+  
+  .alert {
+    border-radius: 15px;
+    padding: 10px 20px;
+  }
+  
+  .alert a {
+    text-decoration: none;
+  }
+  
+  .card-footer {
+    background-color: #f1f1f1;
+  }
+  
