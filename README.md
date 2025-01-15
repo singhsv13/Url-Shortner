@@ -82,59 +82,8 @@ url-shortener/
 
 ---
 
-## API Integration (Optional)
-
-If you'd like to integrate with a URL shortening service like **Bitly**, follow these steps:
-
-1. Obtain a Bitly API token from [Bitly](https://bitly.com).
-2. Update the `shortener.component.ts` file to use the Bitly API.
-
-For detailed steps, refer to the documentation in `shortener.component.ts`.
-
----
-
-## Screenshots
-
-### 1. Initial Screen
-![Initial Screen](https://via.placeholder.com/800x400?text=Initial+Screen)
-
-### 2. Shortened URL Display
-![Shortened URL](https://via.placeholder.com/800x400?text=Shortened+URL+Display)
-
----
-
-## Future Enhancements
-
-- Integrate a real backend service for persistent URL storage.
-- Add analytics to track click-through rates of shortened URLs.
-- Implement user authentication for personalized URL management.
-
----
-
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
-
-## Contributing
-
-Contributions are welcome! If you'd like to improve this project:
-
-1. Fork the repository.
-2. Create a new feature branch:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add new feature"
-   ```
-4. Push to your branch:
-   ```bash
-   git push origin feature-name
-   ```
-5. Open a pull request.
-
----
-
